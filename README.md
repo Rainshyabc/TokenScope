@@ -1,4 +1,7 @@
 # Tokenscope
+
+## 测试
+测试controller这种结构的不一致，测试程序在controller+balance_by_feifei\下面，测试数据集在other-100\下，临时结果存储于balance_map\下
 ## 整体描述
 序号31-36的py程序，是做controller这个mapping结构的不一致识别，具体过程如下：
 
